@@ -1,6 +1,6 @@
 # Example Python Flask Crud
 
- Simple example python flask crud app for sqlit
+ Simple example python flask crud app for sqlite.
  
 ## Screenshots
 
