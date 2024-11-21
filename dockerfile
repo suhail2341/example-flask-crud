@@ -1,5 +1,5 @@
 FROM ubuntu
-RUN apt update && apt add python3
+RUN apt update && apt install python3
 ENV FLASK_APP=crudapp.py
 WORKDIR /workdir
 COPY . .
