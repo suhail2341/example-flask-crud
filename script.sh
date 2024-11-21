@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 export FLASK_APP=crudapp.py
 flask db init
