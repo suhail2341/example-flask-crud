@@ -1,5 +1,5 @@
 FROM ubuntu
-RUN apk update && apk add --no-cache python3 py3-pip
+RUN apt update && apt add --no-cache python3 py3-pip
 ENV FLASK_APP=crudapp.py
 WORKDIR /workdir
 COPY . .
