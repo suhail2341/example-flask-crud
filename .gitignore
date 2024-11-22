@@ -109,3 +109,4 @@ terraform/.terraform.lock.hcl
 terraform/terraform.tfstate
 
 venv/
+README.md
